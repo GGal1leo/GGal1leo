@@ -8,7 +8,7 @@ Learning about computers is how I spent most of my days👨🏻‍💻
 Chilling out, maxing, relaxing all cool
 
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2146370/screenshots/9344637/media/0059834c5239c93f30c78514086c04a5.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://github.com/GGal1leo/GGal1leo/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
 ### 💼  Things that I'm currently working on: 
 * Finishing School.
