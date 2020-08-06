@@ -31,7 +31,7 @@ Chilling out, maxing, relaxing all cool
 <p align="left">
 <a href="https://www.instagram.com/buuunicu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
--->
+
 
 <img src="https://komarev.com/ghpvc/?username=GGal1leo" alt="GGal1leo" />
 
