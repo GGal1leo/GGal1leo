@@ -25,6 +25,5 @@ I do computer stuff
 <img src="https://komarev.com/ghpvc/?username=GGal1leo" alt="GGal1leo" />
 
 
----
 
 
