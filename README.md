@@ -2,18 +2,11 @@
 
 ### I'm Gal1leo (GGal1leo), 
 
-A high school student doing bug bounties part time at Hacker0x1
-In Eastern Europe, born and raised here.
-Learning about computers is how I spent most of my days👨🏻‍💻 
-Chilling out, maxing, relaxing all cool
+I do computer stuff
 
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=ggal1leo&show_icons=true&theme=tokyonight" width="400" height="300" />
 
-### 💼  Things that I'm currently working on: 
-* Finishing School.
-* Looking forward to take the CCNA exam in future.
-* 🔜
 
 
  
@@ -28,16 +21,10 @@ Chilling out, maxing, relaxing all cool
    </p>
    
 
-**Connect with me:**
-<p align="left">
-<a href="https://www.instagram.com/buuunicu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
-
 
 <img src="https://komarev.com/ghpvc/?username=GGal1leo" alt="GGal1leo" />
 
 
 ---
 
-### Credit to 
--  Mandragora Estudio **for GIF**. 
+
