@@ -7,8 +7,6 @@ I do computer stuff
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=ggal1leo&show_icons=true&theme=tokyonight" width="400" height="300" />
 
-
-
  
  **Languages and Frameworks:**
 <p align="left">
@@ -23,7 +21,4 @@ I do computer stuff
 
 
 <img src="https://komarev.com/ghpvc/?username=GGal1leo" alt="GGal1leo" />
-
-
-
 
