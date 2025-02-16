@@ -6,6 +6,7 @@ I do computer stuff
 
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=ggal1leo&show_icons=true&theme=tokyonight" width="400" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GGal1leo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
  
  **Languages and Frameworks:**
