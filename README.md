@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gal1leo</h1>
 <h3 align="center">I do computer stuff</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ggal1leo" alt="ggal1leo" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ggal1leo" alt="ggal1leo" /></a> </p>-->
 
 - 🔭 I’m currently working on [My Final year Project](https://github.com/GGal1leo/CYB_FYP/)
 
