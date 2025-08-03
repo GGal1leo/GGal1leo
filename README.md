@@ -13,7 +13,7 @@ I'm a proactive and results-oriented Cyber Analyst, OSCP certified, with hands-o
 
 ---
 
-- 🔭   I’m currently focused on my role as a **CLASSIFIED**.
+- 🔭   I’m currently focused on my role as a **Red Team Operator**.
 - 🌱   I’m constantly learning and currently exploring **Advanced Evasion Techniques & Cloud Security (Azure/AWS)**.
 - 💬   Ask me about anything related to **Active Directory security, web application pentesting, or my research into vehicle security**.
 - ⚡   Fun fact: I like beavers.
